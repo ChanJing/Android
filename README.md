@@ -1,0 +1,1 @@
+The direction and navigation android application for COMP592 of the University fo Waikato.
