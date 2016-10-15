@@ -8,9 +8,7 @@ Through the evaluation, the functions of our application were tested and this us
 
 ## Screenshots
 
-![alt text](Screenshots/Screenshot_2016-09-14-21-34-35.png = 100x "This initial layout"
-
-<img src="Screenshots/Screenshot_2016-09-14-21-34-35.png" alt="Drawing" style="width: 100px;"/>
+<img src="Screenshots/Screenshot_2016-09-14-21-34-35.png" alt="Drawing" style="width: 10px;"/>
 
 ## Developed By
 * Caleb Yuan Tian
