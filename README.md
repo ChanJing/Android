@@ -8,7 +8,9 @@ Through the evaluation, the functions of our application were tested and this us
 
 ## Screenshots
 
-<img src="Screenshots/Screenshot_2016-09-14-21-34-35.png" width="200"/> <img src="Screenshots/Screenshot_2016-09-14-21-35-04.png" width="200"/> <img src="Screenshots/Screenshot_2016-09-16-03-20-15.png" width="200"/>
+Init | Search | History
+--- | --- | ---
+<img src="Screenshots/Screenshot_2016-09-14-21-34-35.png" width="200"/> | <img src="Screenshots/Screenshot_2016-09-14-21-35-04.png" width="200"/> | <img src="Screenshots/Screenshot_2016-09-16-03-20-15.png" width="200"/>
 
 <img src="Screenshots/Screenshot_2016-09-17-15-41-36.png" width="200"/> <img src="Screenshots/Screenshot_2016-09-14-21-35-43.png" width="200"/>
 
