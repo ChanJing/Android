@@ -8,7 +8,9 @@ Through the evaluation, the functions of our application were tested and this us
 
 ## Screenshots
 
-<img src="Screenshots/Screenshot_2016-09-14-21-34-35.png" alt="Drawing" width="200"/>
+<img src="Screenshots/Screenshot_2016-09-14-21-34-35.png" width="200"/>
+
+![Screenshot](Screenshots/Screenshot_2016-09-14-21-34-35.png =250x "Optional title")
 
 ## Developed By
 * Caleb Yuan Tian
