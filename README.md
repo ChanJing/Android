@@ -8,7 +8,7 @@ Through the evaluation, the functions of our application were tested and this us
 
 ## Screenshots
 
-![alt text](screenshots/Screenshot_2016-09-14-21-34-35.png "This initial layout")
+![alt text](Screenshots/Screenshot_2016-09-14-21-34-35.png "This initial layout")
 
 ## Developed By
 * Caleb Yuan Tian
