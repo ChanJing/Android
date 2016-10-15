@@ -8,7 +8,7 @@ Through the evaluation, the functions of our application were tested and this us
 
 ## Screenshots
 
-<img src="Screenshots/Screenshot_2016-09-14-21-34-35.png" alt="Drawing" width="100"/>
+<img src="Screenshots/Screenshot_2016-09-14-21-34-35.png" alt="Drawing" width="200"/>
 
 ## Developed By
 * Caleb Yuan Tian
